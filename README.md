@@ -20,3 +20,4 @@ CONTACT:
 If you have any questions or need assistance with the project, feel free to contact me at ashishkumar85526@gmail.com.
 
 Thank you for choosing the Amazon Clone Frontend project to enhance your frontend development skills. Happy coding!
+http://127.0.0.1:5500/index.html
